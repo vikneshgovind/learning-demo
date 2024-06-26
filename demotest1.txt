@@ -10,3 +10,16 @@ git add demotest1.txt            - A
 
 
 git commit -m "we add a new file "
+
+here we create new changes that time this file status is           M 
+
+hwo to change this modifiy file 
+
+Any Modifiy           Add --> Commit --> Push
+
+git add demotest1.txt
+
+git commit -m "here add new modify"
+
+git push origin main
+
