@@ -7,3 +7,6 @@ here git states                    - U
 git add demotest1.txt
 
 git add demotest1.txt            - A
+
+
+git commit -m "we add a new file "
