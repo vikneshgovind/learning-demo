@@ -1,0 +1,9 @@
+here we use to comments 
+
+create a file demotest1.txt
+
+here git states                    - U
+
+git add demotest1.txt
+
+git add demotest1.txt            - A
