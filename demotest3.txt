@@ -1,0 +1,26 @@
+Github Comments 
+
+Insert --> Add --> Commit --> Push
+
+key words 
+
+    git clone https://github.com/vikneshgovind/learning-demo.git
+
+    cd learning-demo
+
+    git status                       U 
+
+    git add demotest3.txt
+
+    git status
+
+    here status                         A 
+
+    git commit -m "i add a new demotest3.txt file"
+
+    git push origin main
+
+
+
+
+
